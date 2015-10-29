@@ -1,0 +1,68 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body{
+font-family: 'roboto';
+}
+
+.jumbotron{
+background: url('http://i.imgur.com/VbuvvGa.jpg') no-repeat;
+background-size: cover;
+}
+
+.home h2{
+color: #fff;
+}
+
+.highlight{
+background-color: #eaeff4;
+color: #000;
+padding: 0 10px 0;
+}
+
+//Button
+
+.btn{
+background-color: black;
+color: #fff;
+font-size: 18px;
+font-weight: 100;
+padding: 0;
+margin: 40px 0;
+width: 200px;
+line-height: 60px;
+}
+
+.right{
+float: right;
+}
+
+.footer{
+
+.container{
+.socialmedia{
+float: right;
+list-style: none;
+
+li{
+display: inline;
+}
+
+.github{
+content: url('http://i.imgur.com/EAJOfBf.png');
+}
+
+.linkin{
+content: url('http://i.imgur.com/wWiSvM9.png');
+}
+
+.twitter{
+content: url('http://i.imgur.com/56yM7zR.png');
+}
+}
+p{
+float:right;
+}
+}
+}
