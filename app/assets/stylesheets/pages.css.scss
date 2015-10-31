@@ -8,16 +8,11 @@ font-family: 'roboto';
 }
 
 .main{
+
 .home h2{
 color: #fff;
 }
-.jumbotron{
-background: url('http://i.imgur.com/VbuvvGa.jpg') center center;
-background-size: cover;
-width: 100%;
-margin: 100px 0;
-min-height: 600px;
-}
+
 .jumbotron{
 background: url('http://i.imgur.com/VbuvvGa.jpg') center center;
 background-size: cover;
@@ -28,16 +23,12 @@ min-height: 600px;
 
 .container{
 margin: 100px 0 0 0;
+
 .highlight{
 background-color: #eaeff4;
 color: #000;
 padding: 0 10px 0;
 }
-}
-}
-
-.container{
-margin: 100px 0 0 0;
 
 .btn{
 background-color: black;
@@ -54,13 +45,10 @@ line-height: 60px;
 float: right;
 }
 
-.highlight{
-background-color: #eaeff4;
-color: #000;
-padding: 0 10px 0;
 }
 }
-}
+
+
 
 
 
